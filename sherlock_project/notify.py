@@ -276,4 +276,4 @@ class QueryNotifyPrint(QueryNotify):
         Return Value:
         Nicely formatted string to get information about this object.
         """
-        return str(self.result)
+        return str(self.result) сбой  пратакол 
